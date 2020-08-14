@@ -4,6 +4,6 @@
 "home_url":"Module_merlinclash.asp",
 "name":"merlinclash",
 "title":"Merlin Clash",
-"version":"0814",
-"patch_version":"000"
+"version":"0813",
+"patch_version":"001"
 }
