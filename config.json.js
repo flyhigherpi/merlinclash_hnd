@@ -5,6 +5,6 @@
 "name":"merlinclash",
 "title":"Merlin Clash",
 "version":"0816",
-"patch_version":"000"
+"patch_version":"000",
 "sc_version":"2020081701"
 }
