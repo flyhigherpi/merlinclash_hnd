@@ -4,8 +4,8 @@
 "home_url":"Module_merlinclash.asp",
 "name":"merlinclash",
 "title":"Merlin Clash",
-"version":"20211202",
-"patch_version":"002",
+"version":"20220101",
+"patch_version":"001",
 "sc_version":"2021121401",
 "com_version":"2021060601",
 "game_version":"2020071901"
