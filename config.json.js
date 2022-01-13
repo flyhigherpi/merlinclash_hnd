@@ -5,10 +5,10 @@
 "name":"merlinclash",
 "title":"Merlin Clash",
 "version":"20220101",
-"patch_version":"002",
+"patch_version":"003",
 "sc_version":"2021121401",
 "com_version":"2021060601",
 "game_version":"2020071901",
 "link":"https://t.me/merlinclashfile/355",
-"patch_link":"https://t.me/merlinclashfile/358"
+"patch_link":"https://t.me/merlinclashfile/367"
 }
